@@ -1,2 +1,4 @@
 To jest test - 1 linijka
 I bonusowa linijka -a co???!
+
+I koooolejny commit
